@@ -11,6 +11,7 @@ This repository provides prebuilt third-party libraries needed to compile MapWea
 | GDAL | 3.12.4 | Geospatial data abstraction library |
 | PROJ | 9.8.1 | Coordinate transformation library |
 | OPENSSL | 3.6.2 | Open source SSL/TLS encryption library. |
+| TILESOURCE | 0.9.3 | Tile source reading core library. |
 
 ## Usage
 
